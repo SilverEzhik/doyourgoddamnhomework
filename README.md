@@ -32,5 +32,5 @@ That aside, here's a list of what I had implemented:
 * Use Mongo ID instead of email for Moxtra
 * Fix that issue with chat size
 
-Love, 
-![Ezhik](http://i.imgur.com/mZIlGu7.png "Ezhik")
+Love,  
+[![Ezhik](http://i.imgur.com/mZIlGu7.png "Ezhik")](http://ezhik.me)
