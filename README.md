@@ -6,9 +6,7 @@ It's powered by Node.js, MongoDB, Moxtra APIs, and Material Design Lite. You wil
 
 Considering my relative inexperience with Node.js, and the fact that I barely remember the actual process of writing the code - this being at a hackathon all-nighter and all, one is left to wonder what lays inside.
 
-Most of the time was spent fixing an issue that turned out to be a problem with Moxtra ('+' -> ' ' in email fields) 
-
-====
+Most of the time was spent fixing an issue that turned out to be a problem with Moxtra ('+' -> ' ' in email fields)
 
 ##What works
 
@@ -34,6 +32,5 @@ That aside, here's a list of what I had implemented:
 * Use Mongo ID instead of email for Moxtra
 * Fix that issue with chat size
 
-====
-
+Love, 
 ![Ezhik](http://i.imgur.com/mZIlGu7.png "Ezhik")
