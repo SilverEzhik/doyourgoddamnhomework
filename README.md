@@ -1,5 +1,7 @@
 #The Do Your Goddamn Homework Club
 
+http://doyourgoddamnhomework.club
+
 *The Do Your Goddamn Homework Club* is the project I did for [HackingEDU](http://hackingedu.co) this year. It's supposed to help you with your productivity, via partnering you up with other people and creating a sense of mutual accountability. 
 
 It's powered by Node.js, MongoDB, Moxtra APIs, and Material Design Lite. You will notice that sign-in is eerily similar to https://scotch.io/tutorials/easy-node-authentication-setup-and-local
